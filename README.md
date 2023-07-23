@@ -1,2 +1,7 @@
-# CSE-122-FALL2023
-This is an OOP LAB Repository.
+Name: MD.Sheikh Sayed
+
+ID: 22235103161
+
+Intake: 51
+
+Section: 02
