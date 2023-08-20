@@ -12,9 +12,10 @@ int main(){
 
         if (ch1 < ch2) {
             flag = -1;
-
+        break;
         } else if (ch1 > ch2) {
             flag = 1;
+break;
         }
     }
     cout<<flag;
