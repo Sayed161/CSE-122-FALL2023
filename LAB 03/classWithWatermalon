@@ -1,0 +1,37 @@
+#include<bits/stdc++.h>
+using namespace std;
+class watermalon{
+public:
+    int w;
+void input(){
+cin>>w;
+
+}
+void output(){
+if(w>=1 && w<=100){
+    if(w==2){
+    cout<<"NO";
+}
+else if(w%2==0){
+    cout<<"Yes";
+}
+else{
+    cout<<"NO";
+}
+}
+
+else{
+    cout<<"NO";
+}
+}
+
+
+};
+int main(){
+
+watermalon obj;
+obj.input();
+obj.output();
+return 0;
+
+}
